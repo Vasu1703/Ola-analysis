@@ -30,6 +30,4 @@ This project analyzes **1,00,000+ Ola ride booking records** to uncover business
 - Compared driver vs. customer ratings to highlight satisfaction gaps  
 - Highlighted top-performing vehicle categories and underutilized services  
 - Provided recommendations to optimize revenue and improve customer experience  
-
-## 🔗 Project Link  
-[Click here to view the Ola Ride Dashboard]((https://drive.google.com/drive/folders/19B8hXh9mQSPGVr-Nb-iQwIqlu9SK1sru?usp=drive_link))  
+  
