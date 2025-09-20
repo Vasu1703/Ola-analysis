@@ -32,4 +32,4 @@ This project analyzes **1,00,000+ Ola ride booking records** to uncover business
 - Provided recommendations to optimize revenue and improve customer experience  
 
 ## 🔗 Project Link  
-[Click here to view the Ola Ride Dashboard]([https://your-link.com/ola-dashboard](https://drive.google.com/drive/folders/19B8hXh9mQSPGVr-Nb-iQwIqlu9SK1sru?usp=drive_link))  
+[Click here to view the Ola Ride Dashboard]((https://drive.google.com/drive/folders/19B8hXh9mQSPGVr-Nb-iQwIqlu9SK1sru?usp=drive_link))  
