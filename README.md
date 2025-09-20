@@ -22,7 +22,10 @@ This project analyzes **1,00,000+ Ola ride booking records** to uncover business
 
 ## 🛠 Tools & Technologies  
 - Power BI (data modeling, DAX, visualization)  
-- Excel (data cleaning & preprocessing) 
+- Excel (data cleaning & preprocessing)
+- Word (report writing)
+- chatgpt (For all process faster)
+
 
 ## 📈 Insights Generated  
 - Identified cancellation trends and their root causes  
